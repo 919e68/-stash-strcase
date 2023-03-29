@@ -1,5 +1,5 @@
 {
-  "name": "@stash/strcase",
+  "name": "@stasher/strcase",
   "version": "0.0.1",
   "description": "string case",
   "main": "dist/index.js",
