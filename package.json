@@ -1,0 +1,14 @@
+{
+  "name": "@stash/strcase",
+  "version": "0.0.1",
+  "description": "string case",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Wilson Anciro",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
